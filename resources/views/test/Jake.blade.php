@@ -24,7 +24,7 @@
     .banner {
       height: 150px;
       position: relative;
-      background-image: url('images/bannerjake.png');
+      background-image: url('pictures/bannerjake.png');
       background-size: cover;
       background-position: center;
     }
@@ -37,7 +37,7 @@
       position: absolute;
       bottom: -50px;
       left: 20px;
-      background-image: url('images/profilejake.jpg');
+      background-image: url('pictures/profilejake.jpg');
       background-size: cover;
       background-position: center;
     }
