@@ -21,3 +21,6 @@ Route::get('/test', function () {
     return view('test.index');
 })->name('test.index');
 
+Route::get('/test', function () {
+    return view('test.Jake');
+})->name('test.index');
