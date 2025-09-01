@@ -78,10 +78,10 @@
     </div>
 
     <div class="card">
-      <img src="image2.jpg" alt="Image 2">
+      <img src="images/profilejake.jpg" alt="Image 2">
       <h3>Card Title 2</h3>
       <p>Short description for card 2.</p>
-      <a href="#">Visit</a>
+      <a href="{{ route('test.Jake') }}">Visit </a>
     </div>
 
     <div class="card">
@@ -101,3 +101,4 @@
   </div>
 </body>
 </html>
+
