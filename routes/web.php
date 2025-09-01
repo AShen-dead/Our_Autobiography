@@ -24,3 +24,7 @@ Route::get('/test', function () {
 Route::get('/test', function () {
     return view('test.Jake');
 })->name('test.index');
+
+Route::get('/test', function () {
+    return view('test.Moonie');
+})->name('test.index');
